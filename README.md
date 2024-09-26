@@ -11,11 +11,11 @@ Dataset Description:
 
 BX-Users: It contains the information of users.  
 
-    user_id - These have been anonymized and mapped to integers   
-    Location - Demographic data is provided   
-    Age - Demographic data is provided  
-    If available. Otherwise, these fields contain NULL-values.   
-JKGHK
+   user_id - These have been anonymized and mapped to integers  
+   Location - Demographic data is provided  
+   Age - Demographic data is provided  
+   If available. Otherwise, these fields contain NULL - values   
+   
 BX-Books:   
 
    isbn - Books are identified by their respective ISBNs. Invalid ISBNs have already been removed from the dataset.  
