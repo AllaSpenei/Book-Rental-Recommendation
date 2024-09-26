@@ -15,7 +15,7 @@ BX-Users: It contains the information of users.
     Location - Demographic data is provided   
     Age - Demographic data is provided  
     If available. Otherwise, these fields contain NULL-values.   
-
+JKGHK
 BX-Books:   
 
    isbn - Books are identified by their respective ISBNs. Invalid ISBNs have already been removed from the dataset.  
